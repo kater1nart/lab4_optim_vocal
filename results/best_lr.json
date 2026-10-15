@@ -1,0 +1,10 @@
+{
+  "SGD": 0.3,
+  "RMSprop": 0.01,
+  "Adam": 0.003,
+  "RAdam": 0.03,
+  "AdamW": 0.003,
+  "AdaGrad": 0.03,
+  "SGD+Momentum": 0.3,
+  "Nesterov": 0.3
+}

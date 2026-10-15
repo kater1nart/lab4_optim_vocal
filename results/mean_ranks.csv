@@ -1,0 +1,9 @@
+opt,0
+Nesterov,2.4
+SGD+Momentum,3.2
+SGD,3.8
+AdaGrad,4.7
+RAdam,4.8
+Adam,4.9
+AdamW,5.1
+RMSprop,7.1
